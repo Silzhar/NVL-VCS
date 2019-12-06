@@ -1,0 +1,25 @@
+
+h1 {
+    background-color: black;
+    color: aqua; 
+}
+
+.purple {
+    color: purple;
+    border: 1px solid black;
+}
+
+.brown {
+    color: burlywood;
+    border: 1px solid black;
+}
+
+.orange {
+    color: orangered;
+    border: 1px solid black;
+}
+
+.green {
+    color: greenyellow;
+    border: 1px solid black;
+}
