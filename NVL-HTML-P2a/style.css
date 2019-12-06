@@ -5,21 +5,25 @@ h1 {
 }
 
 .purple {
-    color: purple;
+    background-color: gray;
+    color: rgb(202, 4, 202);
     border: 1px solid black;
 }
 
 .brown {
+    background-color: gray;
     color: burlywood;
     border: 1px solid black;
 }
 
 .orange {
+    background-color: rgb(128, 128, 128);
     color: orangered;
     border: 1px solid black;
 }
 
 .green {
+    background-color: gray;
     color: greenyellow;
     border: 1px solid black;
 }
