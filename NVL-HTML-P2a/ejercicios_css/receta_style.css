@@ -1,0 +1,52 @@
+body{
+    margin: 40px;
+}
+
+header{
+    text-align: center;
+    color: #29ac09;
+}
+
+.receta{
+    background-color: #d7dfdf;
+}
+
+h2{
+    text-align: center;
+    color: green;
+    background: #a4d4ae;
+}
+
+[data-ingrediente]{
+    color: hsl(143, 95%, 17%);
+    font-size: 24px;
+    margin-bottom: 22px;
+}
+
+p{
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium';
+    margin-top: 10px;
+    color: rgb(28, 71, 17);
+}
+
+[data-elementos]{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #044904;
+}
+
+[data-elementos="instruccion"]{
+    background: #aeda9a;
+}
+
+[data-elementos="forma"]{
+    background: #9ecaa4;
+}
+
+[data-elementos="horneado"]{
+    background: #aeda9a;
+}
+
+[data-elementos="consejos"]{
+    background: #9ecaa4;
+}
