@@ -4,7 +4,7 @@ for(var lista = []; lista.push(Math.floor((Math.random() * 100) + 1)); lista < 5
     var pares = [];
     var impares = [];
 
-while (lista.length()){
+while (lista.forEach()){
     if (lista %2 == 0){
         pares.push(lista);
     } else
