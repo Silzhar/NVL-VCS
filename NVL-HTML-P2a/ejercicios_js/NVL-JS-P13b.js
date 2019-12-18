@@ -1,7 +1,7 @@
 
 function texto() {
     var entrada = prompt('Escriba aquí su texto a comprobar :').toLowerCase();
-    // eliminar espacios 
+    // Eliminar espacios . La "g" (global) es un modificador para que el replace se realice en todas las ocurrencias.
     entrada = entrada.replace(/ /g, '');
 
     for (var i = 0; i < entrada.length; i++) {
