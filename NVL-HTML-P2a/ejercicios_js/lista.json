@@ -1,0 +1,91 @@
+{
+    "peliculas" : [
+    {
+    "Nombre": "Cristal Oscuro",
+    "Genero": "Fantasía"
+    },
+    {
+    "Nombre": "La historia interminable",
+    "Genero": "Fantasía"
+    },
+    {
+    "Nombre": "La princesa prometida",
+    "Genero": "Fantasía"
+    },
+    {
+    "Nombre": "El señor de los anillos",
+    "Genero": "Fantasía"
+    },
+    {
+    "Nombre": "El mago de Oz",
+    "Genero": "Fantasía"
+    },
+    {
+    "Nombre": "Harry Potter",
+    "Genero": "Fantasía"
+    },
+    {
+    "Nombre": "Stardust",
+    "Genero": "Fantasía"
+    },
+    {
+    "Nombre": "Regreso al Futuro",
+    "Genero": "Ciencia ficción"
+    },
+    {
+    "Nombre": "Star Wars",
+    "Genero": "Ciencia ficción"
+    },
+    {
+    "Nombre": "2001",
+    "Genero": "Ciencia ficción"
+    },
+    {
+    "Nombre": "Terminator",
+    "Genero": "Ciencia ficción"
+    },
+    {
+    "Nombre": "Matrix",
+    "Genero": "Ciencia ficción"
+    },
+    {
+    "Nombre": "El planeta de los simios",
+    "Genero": "Ciencia ficción"
+    },
+    {
+    "Nombre": "Doce monos",
+    "Genero": "Ciencia ficción"
+    },
+    {
+    "Nombre": "Los increibles 2",
+    "Genero": "Animación"
+    },
+    {
+    "Nombre": "El viaje de chihiro",
+    "Genero": "Animación"
+    },
+    {
+    "Nombre": "La Princesa Mononoke",
+    "Genero": "Animación"
+    },
+    {
+    "Nombre": "Klaus",
+    "Genero": "Animación"
+    },
+    {
+    "Nombre": "Your name",
+    "Genero": "Animación"
+    },
+    {
+    "Nombre": "Blade Runner",
+    "Genero": "Ciencia ficción"
+    },
+    {
+    "Nombre": "Alien",
+    "Genero": "Fantasía"
+    },
+    {
+    "Nombre": "Beetlejuice",
+    "Genero": "Fantasía"
+    }
+]
