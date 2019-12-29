@@ -8,3 +8,4 @@ while (($texto = fgets($quijote)) !== false) {
         $contador++;
     };
 }
+?>
